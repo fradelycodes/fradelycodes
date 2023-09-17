@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about CSS, JS, React
-- 📫 How to reach me: ...
+- 📫 How to reach me: LinkedIn, Github
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love listening to music while I code
 
