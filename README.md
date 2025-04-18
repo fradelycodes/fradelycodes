@@ -1,12 +1,27 @@
-### Hi there 👋 
-<!--
-**fradelycodes/fradelycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+### Hey, I'm Frádely 👋
 
- 🔭 I’m currently working on React and personal projects for my portfolio
-- 🌱 Always learning!
- - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about React/NextJs, Design, Web Builders
-- 📫 How to reach me: LinkedIn, GitHub
-- ⚡ Fun fact: I love listening to music while I code
+💻 Full-stack developer | QA Analyst | UI/UX Designer  
+🌍 Based in Dominican Republic 
 
+---
+
+🔭 Currently working on:  
+- React/Next.js apps  
+- Backend APIs with MarkLogic  
+- Full Docusaurus portfolio + Docker setup
+
+🌱 Always learning:
+- CI/CD workflows, automation, server setup (AlmaLinux + Apache)  
+- Cloud infra with Docker, Portainer, and WireGuard VPN  
+
+👯 Open to collaborate on: 
+- Full-stack tooling  
+- Docs and dev experience tools  
+
+
+📫 Reach me:  
+- [LinkedIn](https://www.linkedin.com/in/fradely-dilone-ventura/)  
+- [GitHub](https://github.com/fradelycodes)  
+- [Portfolio](https://fradelycodes.github.io/)  
+- [Email](mailto:contact@fradelydilone.com)
 
