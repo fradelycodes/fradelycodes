@@ -6,9 +6,7 @@
 ---
 
 🔭 Currently working on:  
-- React/Next.js apps  
-- Backend APIs with MarkLogic  
-- Full Docusaurus portfolio + Docker setup
+- React/Next.js apps   
 
 🌱 Always learning:
 - CI/CD workflows, automation, server setup (AlmaLinux + Apache)  
