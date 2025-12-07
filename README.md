@@ -5,17 +5,6 @@
 
 ---
 
-🔭 Currently working on:  
-- React/Next.js apps   
-
-🌱 Always learning:
-- CI/CD workflows, automation, server setup (AlmaLinux + Apache)  
-- Cloud infra with Docker, Portainer, and WireGuard VPN  
-
-👯 Open to collaborate on: 
-- Full-stack tooling  
-- Docs and dev experience tools  
-
 
 📫 Reach me:  
 - [LinkedIn](https://www.linkedin.com/in/fradely-dilone-ventura/)  
